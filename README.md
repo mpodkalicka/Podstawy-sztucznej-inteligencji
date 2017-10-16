@@ -1,1 +1,2 @@
 #PSI
+Podstawy sztucznej inteligencji
